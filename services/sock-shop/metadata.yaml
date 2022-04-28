@@ -1,4 +1,4 @@
-displayName: Nothing
+displayName: SockShop
 description: This deploys the complete Sock Shop microservice application.
 category:
   - devops
